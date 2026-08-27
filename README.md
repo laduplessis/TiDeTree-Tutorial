@@ -1,12 +1,24 @@
 ---
 author: Sophie Seidel
 editor: Louis du Plessis
-level: Intermediate
 title: TiDeTree Tutorial
 subtitle: Reconstructing time-scaled single-cell phylogenies from genetic lineage tracing data
-beastversion: ">= 2.7"
 tracerversion: 1.7.x
 figtreeversion: 1.4.x
+beastversion_tutorial: '>= 2.7'
+workflow: Advanced analysis
+status: current
+keywords:
+- birth-death
+- molecular clock
+- tip dating
+- lineage tracing
+- single-cell
+packages:
+- TiDeTree
+- CCD
+domains:
+- single-cell
 ---
 
 
